@@ -4,11 +4,19 @@ import java.math.BigDecimal;
 
 public class BlogInfo {
 
-
+    /**
+     *  id
+     */
     private String id;
 
+    /**
+     * 书名
+     */
     private String name;
 
+    /**
+     * 价格
+     */
     private BigDecimal price;
 
 
